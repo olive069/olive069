@@ -1,4 +1,6 @@
-### Hi there 👋
+🔭 FrontEnd Web Dev 🔭
+🌱Software Architect Student 🌱
+⚡ JS/Node/Angular addict ⚡
 
 <!--
 **olive069/olive069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
