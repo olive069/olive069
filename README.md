@@ -1,5 +1,7 @@
 🔭 FrontEnd Web Dev 🔭\
+<br>
 🌱Software Architect Student 🌱\
+<br>
 ⚡ JS/Node/Angular addict ⚡
 
 <!--
