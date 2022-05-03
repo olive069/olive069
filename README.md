@@ -1,8 +1,8 @@
 🔭 FrontEnd Web Dev 🔭\
 <br>
-🌱Software Architect Student 🌱\
+🌱 Software Architect 🌱\
 <br>
-⚡ JS/Node/Angular addict ⚡
+⚡ C# .Net - React/Angular ⚡
 
 <!--
 **olive069/olive069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
