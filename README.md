@@ -1,6 +1,6 @@
 🔭 FrontEnd Web Dev 🔭\
 <br>
-🌱 Software Architect 🌱\
+🌱 Software Developer 🌱\
 <br>
 ⚡ C# .Net - React/Angular ⚡
 
